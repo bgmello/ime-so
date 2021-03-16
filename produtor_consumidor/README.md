@@ -1,0 +1,1 @@
+Exercicio de memoria compartilhada, consiste em criar processo produtor que espera valor mudar para diferente de -1 ate terminar. O consumidor ira entao acessar a mesma memoria e ira mudar o valor, terminando o produtor
